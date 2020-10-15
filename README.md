@@ -1,4 +1,4 @@
-# Death swap
+# Death Swap
 A minecraft datapack for the game death swap
 
 ### How to install
